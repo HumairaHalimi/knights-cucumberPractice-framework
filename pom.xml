@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>knights-cucumberPractice-framework</artifactId>
+    <artifactId>knights-cucumberPractice-framework_2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
