@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
         features = "classpath:features",
         glue = "tek.bdd.steps",
-        tags = "@US_16",
+        tags = " @Smoke",
         dryRun =false, //if true wont run steps just check for un implemented stages
         plugin = {
                 "html:target/html_report/report.html"
